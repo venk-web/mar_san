@@ -3,3 +3,5 @@ model: nexon
 
 tyres: 4
 speed: 100km/h
+
+name: vensan
